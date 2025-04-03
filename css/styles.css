@@ -16,7 +16,7 @@ body {
     color: #4d5ae5;
 }
 
-.logo-text {
+.logo-text-header {
     color: #2e2f42;
 }
 
@@ -192,7 +192,7 @@ font-family: "Roboto", sans-serif;
     color: #4d5ae5;
 }
 
-.logo-text {
+.logo-text-footer {
     color: #f4f4fd;
 }
 
